@@ -1,0 +1,5 @@
+outs:
+- md5: 5e14c9e023b35c129672191edaff0074
+  size: 39615
+  hash: md5
+  path: mobile_phones.csv
